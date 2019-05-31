@@ -1,0 +1,14 @@
+{
+  "outputDirectory": "dist/",
+  "host": "",
+  "ejs": {
+    "site_title": "",
+    "site_url": "",
+    "site_description": "",
+    "site_copy": "",
+    "site_share_image": "",
+    "site_share_text": "",
+    "pages": [
+    ]
+  }
+}
