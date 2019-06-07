@@ -4,7 +4,7 @@
   "description": "",
   "main": "./src/image-snowfall.js",
   "scripts": {
-    "server": "browser-sync start --server ./sample --files  index.html",
+    "server": "browser-sync start --server ./ --files  index.html",
     "build:webpack": "webpack --watch",
     "develop": "npm-run-all --parallel server build:webpack"
   },
